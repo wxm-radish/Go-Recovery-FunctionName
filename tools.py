@@ -15,6 +15,7 @@ for k,v in data.items():
     v = v.replace("}","_")
     v = v.replace("-","_")
     v = v.replace(";","_")
-    MakeName(addr,v)
-    index += 1
+    ret = MakeName(addr,v)
+    if ret == True:
+        index += 1
 print "\n共恢复"+str(index)+"个函数的名字\n"
