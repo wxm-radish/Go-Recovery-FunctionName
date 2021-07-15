@@ -88,7 +88,7 @@ int main(int argc, char const *argv[])
     int index;
     // printf("%p,%p,%p",&data,(char*)data+1,(char*)data+2);
     FILE *data_p;
-    char data_file[] = "data2.py";
+    char data_file[] = "data.py";
     data_p = fopen(data_file, "w+");
     fputs("#coding:utf-8\n",data_p);
     fputs("data = {",data_p);
