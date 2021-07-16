@@ -1,4 +1,4 @@
-# Go-Recovery-Symbol
+# Go-Recovery-FunctionName
 一个逆向GO二进制程序的辅助工具
 
 对于go的二进制程序，可以用本工具来恢复函数名，方便之后的逆向。
