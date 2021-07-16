@@ -1,3 +1,4 @@
+## 使用方法
 
 1、./get_sym_15 [filename]，提取函数名字和函数地址的关系，会在当前目录下生成data.py，把data.py和tools.py放到同一目录下
 
