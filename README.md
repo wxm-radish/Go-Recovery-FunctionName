@@ -6,8 +6,8 @@
 ## 使用范围
 
 - Linux
-  -- `strip`去符号
-  -- `-ldflags "-s -w"`编译选项
+  * `strip`去符号
+  * `-ldflags "-s -w"`编译选项
 - Windows
-  -- `-ldflags "-s -w"`编译选项
+  * `-ldflags "-s -w"`编译选项
 - 64位可执行程序
