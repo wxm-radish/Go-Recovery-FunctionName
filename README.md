@@ -11,3 +11,6 @@
 - Windows
   * `-ldflags "-s -w"`编译选项
 - 64位可执行程序
+
+## Wechat
+radish-wxm
